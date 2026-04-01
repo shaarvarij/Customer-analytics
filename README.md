@@ -1,8 +1,7 @@
 # Customer Analytics Platform
 
 A production-grade, end-to-end customer analytics platform built with a modern data stack.
-Live demo: [Your Streamlit URL here]
-
+Live demo: [(https://customer-analytics-sj.streamlit.app/)]
 ---
 
 ## What this does
