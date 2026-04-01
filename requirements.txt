@@ -1,0 +1,10 @@
+prefect==3.6.24
+faker
+duckdb
+pandas
+scikit-learn
+prophet
+streamlit
+plotly
+reportlab
+pyarrow
